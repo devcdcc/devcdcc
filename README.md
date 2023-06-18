@@ -1,5 +1,5 @@
 - 👋 Hi, I’m C. Daniel Cañon C. @devcdcc
-- 🌱 I’m currently working in buildidng a new high performance and new functional programming language with an ownership model, I will publish it later.
+- 🌱 I’m currently working in buildidng a new high performance and new functional programming language with an ownership model, I will publish it soon.
 - 📫 How to reach me devcdcc@gmail.com
 
 <!---
