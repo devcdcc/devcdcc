@@ -1,6 +1,5 @@
 - 👋 Hi, I’m C. Daniel Cañon C. @devcdcc
-- 🌱 I’m currently learning Rust.
-- 💞️ I’m looking to collaborate on Rust or Scala projects. I am starting to collaborate with the [Fluvio](https://github.com/infinyon/fluvio) project.
+- 🌱 I’m currently working in buildidng a new high performance and new functional programming language with an ownership model, I will publish it later.
 - 📫 How to reach me devcdcc@gmail.com
 
 <!---
